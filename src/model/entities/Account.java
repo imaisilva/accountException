@@ -68,5 +68,4 @@ public class Account {
 			throw new DomainException("Withdraw error: The amount exceeds withdraw limit");
 		}
 	}
-
 }
